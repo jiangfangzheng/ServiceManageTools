@@ -1,0 +1,11 @@
+服务名	微服务节点	部署包存放路径	服务安装路径
+we1	CloudVPN01	/weqwe/werwer2	/服务安装路径/1
+we2	CloudVPN01	/weqwe2/werwer2	/服务安装路径/2
+we3	CloudVPN01	/weqwe3/werwer2	/服务安装路径/3
+we4	CloudVPN01	/weqwe4/werwer2	/服务安装路径/4
+we5	CloudVPN01	/weqwe5/werwer2	/服务安装路径/5
+we6	CloudVPN01	/weqwe6/werwer2	/服务安装路径/6
+we7	CloudVPN01	/weqwe7/werwer2	/服务安装路径/7
+we8	CloudVPN01	/weqwe8/werwer2	/服务安装路径/8
+jfz	HK	/root/	/root/lamp/
+
